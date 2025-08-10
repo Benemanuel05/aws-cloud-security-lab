@@ -16,11 +16,11 @@ This short lab demonstrates how to set up and secure an Amazon S3 bucket to prev
 ## Visual Gallery
 | S3 Overview | Bucket Permissions |
 |---:|:---|
-| ![S3 Overview](screenshots/s3_overview.png) | ![Bucket Permissions](screenshots/bucket_permissions.png) |
+| ![S3 Overview](Screenshots/s3_overview.png) | ![Bucket Permissions](Screenshots/bucket_permissions.png) |
 
 | Test File Uploaded | Access Denied (incognito) |
 |---:|:---|
-| ![Test File Uploaded](screenshots/test_file_uploaded.png) | ![Access Denied](screenshots/access_denied.png) |
+| ![Test File Uploaded](Screenshots/test_file_uploaded.png) | ![Access Denied](Screenshots/access_denied.png) |
 
 *Tip: click any image to view full size.*
 
