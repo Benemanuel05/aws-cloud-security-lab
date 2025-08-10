@@ -21,28 +21,28 @@ This lab demonstrates how to set up and secure an AWS S3 bucket to prevent unaut
 ### 1. S3 Overview
 Created a new S3 bucket named `ben-cloud-security-lab` with default security settings and **Bucket Owner Enforced** enabled for object ownership.
 
-![S3 Overview](Screenshots/s3_overview.png)
+![S3 Overview](s3_overview.png)
 
 ---
 
 ### 2. Bucket Permissions
 Configured the bucket to follow **least privilege** principles, ensuring no public access was allowed.
 
-![Bucket Permissions](Screenshots/bucket_permissions.png)
+![Bucket Permissions](bucket_permissions.png)
 
 ---
 
 ### 3. Testing Access Restrictions
 Verified that unauthorized access attempts resulted in an **Access Denied** error.
 
-![Access Denied](Screenshots/access_denied.png)
+![Access Denied](access_denied.png)
 
 ---
 
 ### 4. File Upload Verification
 Uploaded a test file to confirm correct permissions and bucket functionality.
 
-![Test File Uploaded](Screenshots/test_file_uploaded.png)
+![Test File Uploaded](test_file_uploaded.png)
 
 ---
 
